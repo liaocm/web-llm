@@ -1,6 +1,6 @@
 {
   "name": "@liaocm/web-llm-default-export",
-  "version": "0.2.80",
+  "version": "0.2.81",
   "description": "Fork of web-llm where index.ts has default export",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
