@@ -1,7 +1,7 @@
 {
   "name": "@liaocm/web-llm-default-export",
   "version": "0.2.80",
-  "description": "Hardware accelerated language model chats on browsers",
+  "description": "Fork of web-llm where index.ts has default export",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "type": "module",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlc-ai/web-llm.git"
+    "url": "git+https://github.com/liaocm/web-llm.git"
   },
   "keywords": [
     "llm",
@@ -25,7 +25,7 @@
     "machine learning"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/mlc-ai/web-llm",
+  "homepage": "https://github.com/liaocm/web-llm",
   "devDependencies": {
     "@mlc-ai/web-runtime": "0.18.0-dev2",
     "@mlc-ai/web-tokenizers": "^0.1.5",
